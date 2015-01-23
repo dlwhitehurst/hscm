@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Hscm::VERSION
   spec.authors       = ["David L. Whitehurst"]
   spec.email         = ["dlwhitehurst@me.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Ruby gem for command-line SCM to multiple users and hosts}
+  spec.description   = %q{This gem is a command-line ruby application with dependency on other ruby scripts and gems. The tool is used to capture software names and installed versions for various host servers.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
