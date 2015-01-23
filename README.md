@@ -1,30 +1,21 @@
 # Hscm
 
-TODO: Write a gem description
+The hscm Ruby Gem is an SCM command-line application for multiple host servers and multiple users.
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Use rake to build, install, and release this gem to rubygems.org.
 
-```ruby
-gem 'hscm'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install hscm
+    $ rake build
+    $ sudo rake install (This was successful and wrote to /usr/bin/hscm Jan. 22, 2015 at 10:45 PM)
 
 ## Usage
 
-TODO: Write usage instructions here
+Replace with manpage declaration or text.
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/hscm/fork )
+1. Fork it ( https://github.com/dlwhithurst/hscm/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
