@@ -1,0 +1,3 @@
+module Hscm
+  # later
+end
