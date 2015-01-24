@@ -11,7 +11,7 @@ Use rake to build, install, and release this gem to rubygems.org.
 
 ## Usage
 
-Replace with manpage declaration or text.
+Replace with manpage declaration or text (todo)
 
 ## Contributing
 
